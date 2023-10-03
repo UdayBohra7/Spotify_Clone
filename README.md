@@ -1,2 +1,2 @@
 # Spotify_Clone
- creating a clone of real spotify web app
+Trying to create a clone of real spotify web app
